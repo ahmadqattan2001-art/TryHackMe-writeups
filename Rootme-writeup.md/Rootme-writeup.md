@@ -1,4 +1,5 @@
-﻿**title:**  "[RootMe] - TryHackMe"
+﻿
+**title:**  "[RootMe] - TryHackMe"
 
 **date:**  10-12-2025
 
@@ -18,8 +19,6 @@
 
 - SUID Exploitation
 
-
-
 ## ScreenShots:
 
 1.https://github.com/ahmadqattan2001-art/tryhackme-writeups/blob/main/screenshots/WhatsApp%20Image%202025-12-11%20at%2016.12.35_92dfc5c1.jpg
@@ -29,12 +28,13 @@
 3.https://github.com/ahmadqattan2001-art/tryhackme-writeups/blob/main/screenshots/WhatsApp%20Image%202025-12-11%20at%2016.12.35_52424e25.jpg
 
 4. https://github.com/ahmadqattan2001-art/tryhackme-writeups/blob/main/screenshots/Screenshot%202025-12-11%20161150.png
-
-**Skills gained:** SUID exploitation, gobuster, upload various php versions, listening to ports by netcat.
+## Skills gained: 
+SUID exploitation, gobuster, upload various php versions, listening to ports by Netcat.
 
 ## Goal
 
 To exploit the target system, escalate to root privileges, and access sensitive information such as credentials, configuration files, and other critical data.
+
 ## Tools Used
 
 - Nmap
